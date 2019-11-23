@@ -1,0 +1,10 @@
+﻿  Assembling Proyecto.asm...
+\masm32\include\masm32rt.inc(33): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  LINK : se especificó /LTCG pero no se requiere generación de código; quite /LTCG de la línea de comandos de vínculo para mejorar el rendimiento del vinculador
+Proyecto.obj : error LNK2026: módulo no seguro de una imagen SAFESEH.
+masm32.lib(stdout.obj) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+masm32.lib(strlen.obj) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+kernel32.lib(kernel32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+msvcrt.lib(msvcrt.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+msvcrt.lib(msvcrt.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+C:\Users\Sthephan\source\repos\Project2MASM\Release\Project2MASM.exe : fatal error LNK1281: No se puede generar la imagen SAFESEH.

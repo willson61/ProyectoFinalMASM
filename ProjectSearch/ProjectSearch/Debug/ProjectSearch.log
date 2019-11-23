@@ -1,0 +1,10 @@
+﻿  Assembling Search.asm...
+\masm32\include\masm32rt.inc(33): warning A4011: multiple .MODEL directives found : .MODEL ignored
+Search.asm(40): warning A4014: instructions and initialized data not supported in BSS segments
+Search.asm(41): warning A4014: instructions and initialized data not supported in BSS segments
+Search.asm(42): warning A4014: instructions and initialized data not supported in BSS segments
+Search.asm(43): warning A4014: instructions and initialized data not supported in BSS segments
+Search.asm(48): warning A4014: instructions and initialized data not supported in BSS segments
+Search.asm(52): warning A4014: instructions and initialized data not supported in BSS segments
+  LINK : no se encontró C:\Users\Sthephan\source\repos\ProjectSearch\Debug\ProjectSearch.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  ProjectSearch.vcxproj -> C:\Users\Sthephan\source\repos\ProjectSearch\Debug\ProjectSearch.exe

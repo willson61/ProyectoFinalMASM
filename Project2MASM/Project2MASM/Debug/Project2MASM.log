@@ -1,0 +1,5 @@
+﻿  Assembling Proyecto1.asm...
+\masm32\include\masm32rt.inc(33): warning A4011: multiple .MODEL directives found : .MODEL ignored
+Proyecto1.asm(40): warning A4014: instructions and initialized data not supported in BSS segments
+Proyecto1.asm(41): warning A4014: instructions and initialized data not supported in BSS segments
+  Project2MASM.vcxproj -> C:\Users\Sthephan\source\repos\Project2MASM\Debug\Project2MASM.exe
